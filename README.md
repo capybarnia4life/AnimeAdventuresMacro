@@ -1,4 +1,4 @@
-## Capy's AA Macro
+# Capy's AA Macro
 
 My macro for Anime Adventures.
 
